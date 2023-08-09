@@ -1,5 +1,5 @@
 <h1 align="center">
-𝐇𝐞𝐥𝐥𝐨, &lt;Devs/&gt;! 
+𝐇𝐞𝐥𝐥𝐨 Enthusiasts! 
     <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -35,7 +35,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-work.sourav155@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.sourav155@gmail.com)](mailto:work.sourav155@gmail.com)
 
 
-![](https://komarev.com/ghpvc/?username=dsourav155&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Tisha6661&color=blueviolet&label=Profile+Views)
 <!--
 **dsourav155/dsourav155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
