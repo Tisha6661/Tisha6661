@@ -37,7 +37,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Tisha6661&color=blueviolet&label=Profile+Views)
 
-## languages & Frameworks 
+## Languages & Frameworks 
 
 ![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-3670A0.svg?style=for-the-badge&logo=C++&logoColor=white)    
@@ -46,12 +46,11 @@
 ![CSS](https://img.shields.io/badge/CSS-3670A0.svg?style=for-the-badge&logo=CSS&logoColor=white)  
 
 
-
 <hr>
 
 <p align="center">         
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Tisha6661&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Tisha6661&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
+<img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api?username=Tisha6661&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
+<img width="400px" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=Tisha6661&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
 <hr>
 </p>
                                                            
