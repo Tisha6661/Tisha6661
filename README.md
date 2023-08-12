@@ -40,10 +40,10 @@
 ## languages & Frameworks 
 
 ![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/go-3670A0.svg?style=for-the-badge&logo=C++&logoColor=white)    
-![OpenCV](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![HTML](https://img.shields.io/badge/YAML-%3670A0.svg?style=for-the-badge&logo=Html&logoColor=black)
-![CSS](https://img.shields.io/badge/go-3670A0.svg?style=for-the-badge&logo=CSS&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-3670A0.svg?style=for-the-badge&logo=C++&logoColor=white)    
+![OpenCV](https://img.shields.io/badge/OpenCV-%23ED8B00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%3670A0.svg?style=for-the-badge&logo=Html&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-3670A0.svg?style=for-the-badge&logo=CSS&logoColor=white)  
 
 
 
