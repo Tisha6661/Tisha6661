@@ -32,7 +32,7 @@
 ✔ Reach out to me on [Kaggle](https://www.kaggle.com/tisha9991)<br>
 ✔ Reach out to me on [Hashnode](https://hashnode.com/@tisha6661)<br>
 
-[![Gmail Badge](https://img.shields.io/badge/-work.sourav155@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.sourav155@gmail.com)](mailto:work.sourav155@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tishag6661@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tishag6661@gmail.com)](mailto:tishag6661@gmail.com)
 
 
 ![](https://komarev.com/ghpvc/?username=Tisha6661&color=blueviolet&label=Profile+Views)
@@ -48,14 +48,14 @@
 <hr>
 
 <p align="center">         
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dsourav155&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=dsourav155&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Tisha6661&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Tisha6661&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
 <hr>
 </p>
 
 
                         
-<a href="https://github.com/dsourav155"><img alt="Sourav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dsourav155&theme=react-dark&hide_border=true&area=true" /></a>
+<a href="https://github.com/Tisha6661"><img alt="Tisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tisha6661&theme=react-dark&hide_border=true&area=true" /></a>
                                                            
                                                            
 ### Show some ❤️ by ⭐ some of the repositories!
