@@ -13,7 +13,7 @@
   <em>
     This is Tisha, a <b>Sophomore</b> undergraduate from <a href="https://www.jcboseust.ac.in/"> <b>J.C Bose University of Science & Technology</b></a>. <br>
     <b>Data Analyst</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">and a <b>Programming Blogger</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is<b>obsessed</b>
-    with the idea of <b>improving</b> exploring the field of data science and wants a <b>platform</b> to 
+    with the idea of <b>improving</b> and exploring the field of data science and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
