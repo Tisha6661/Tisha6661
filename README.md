@@ -21,30 +21,8 @@
 <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
-&nbsp;***More About Me...***
-
-
-✔ Learing **Machine Learning**.<br>
-✔ Learing **Computer Vision**.<br>
-✔ Learning **Deep Learning** <br>
-
-✔ Reach out to me on [LinkedIn](https://www.linkedin.com/in/tisha-garg-4b207322a/)<br>
-✔ Reach out to me on [Kaggle](https://www.kaggle.com/tisha9991)<br>
-✔ Reach out to me on [Hashnode](https://hashnode.com/@tisha6661)<br>
-
-[![Gmail Badge](https://img.shields.io/badge/-tishag6661@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tishag6661@gmail.com)](mailto:tishag6661@gmail.com)
-
 
 ![](https://komarev.com/ghpvc/?username=Tisha6661&color=blueviolet&label=Profile+Views)
-
-## Languages & Frameworks 
-
-![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3670A0.svg?style=for-the-badge&logo=C++&logoColor=white)    
-![OpenCV](https://img.shields.io/badge/OpenCV-%23ED8B00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%3670A0.svg?style=for-the-badge&logo=Html&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-3670A0.svg?style=for-the-badge&logo=CSS&logoColor=white)  
-
 
 <hr>
 
@@ -54,5 +32,37 @@
 <hr>
 </p>
                                                            
+# 💫 About Me:
+🔭 I’m currently working on __Software development__<br>👯 I’m looking to collaborate on __real-world projects across multiple tech stacks & organizations__<br>🤝 I’m looking for help with __real-world projects of my own & personal skill developement__<br>🌱 I’m currently learning __DevOps, AI/ML  & CyberSecurity__<br>💬 Ask me about __UI/UX, Client side development (web and mobile),Server side Development, System Design, Data Structures & Algorithms__<br>⚡ Fun fact __I am a tech enthusiast, always building and observing the world around me.__
+
+
+## 🌐 Socials:
+[![Gmail Badge](https://img.shields.io/badge/-tishag6661@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tishag6661@gmail.com)](mailto:tishag6661@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tisha-garg-4b207322a/) 
+[![Hashnode](https://www.svgrepo.com/svg/353859/hashnode-icon)](https://hashnode.com/@tisha6661)
+[![Kaggle](https://www.svgrepo.com/svg/349422/kaggle)](https://www.kaggle.com/tisha9991)
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23ED8B00.svg?style=for-the-badge&logo=OpenCV&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%3670A0.svg?style=for-the-badge&logo=Html&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-3670A0.svg?style=for-the-badge&logo=CSS&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tisha6661&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tisha6661&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha6661&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tisha6661&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Tisha6661&icon=5&color=6)](https://visitcount.itsvg.in)
+
+
+&nbsp;***More About Me...***
+
+
+✔ Learing **Machine Learning**.<br>
+✔ Learing **Computer Vision**.<br>
+✔ Learning **Deep Learning** <br>
                                                            
 ### Show some ❤️ by ⭐ some of the repositories!
