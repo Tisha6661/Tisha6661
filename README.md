@@ -6,19 +6,19 @@
       
  <h2 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Tisha;Data+Analyst;Open+source+contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Tisha;Data+Analyst;Open+Source+Contributor)](https://git.io/typing-svg)
     </h2>
     
 <p align="center">
   <em>
     This is Tisha, a <b>Sophomore</b> undergraduate from <a href="https://www.jcboseust.ac.in/"> <b>J.C Bose University of Science & Technology</b></a>. <br>
-    <b>Data Analyst</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">and a <b>Programming Blogger</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is<b>obsessed</b>
+    <b>Data Analyst</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">and a <b>Programming Blogger</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> and exploring the field of data science and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp
   </em> 
   <br>
-<b><i>Learning while HOPING & HUSTLING!!!</i></b> 
+<b><i>Learning with ZEST & Hustling with TECH!!!</i></b> 
 </p>
 
 
@@ -27,19 +27,16 @@
 <hr>
 
 <p align="center">         
-<img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api?username=Tisha6661&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
-<img width="400px" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=Tisha6661&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
+<img width="300px" height="300px" src="https://github-readme-stats.vercel.app/api?username=Tisha6661&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> 
+<img width="300px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tisha6661&theme=dark&hide_border=false" /> 
+<img width="500px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha6661&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> 
 <hr>
 </p>
-                                                           
-# 💫 About Me:
-🔭 I’m currently working on __Software development__<br>👯 I’m looking to collaborate on __real-world projects across multiple tech stacks & organizations__<br>🤝 I’m looking for help with __real-world projects of my own & personal skill developement__<br>🌱 I’m currently learning __DevOps, AI/ML  & CyberSecurity__<br>💬 Ask me about __UI/UX, Client side development (web and mobile),Server side Development, System Design, Data Structures & Algorithms__<br>⚡ Fun fact __I am a tech enthusiast, always building and observing the world around me.__
-
 
 ## 🌐 Socials:
 [![Gmail Badge](https://img.shields.io/badge/-tishag6661@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tishag6661@gmail.com)](mailto:tishag6661@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tisha-garg-4b207322a/) 
-[![Hashnode](https://www.svgrepo.com/svg/353859/hashnode-icon)](https://hashnode.com/@tisha6661)
+[![Hashnode]([https://www.svgrepo.com/svg/353859/hashnode-icon](https://www.svgrepo.com/svg/353856/hashnode))](https://hashnode.com/@tisha6661)
 [![Kaggle](https://www.svgrepo.com/svg/349422/kaggle)](https://www.kaggle.com/tisha9991)
 
 
@@ -55,11 +52,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Tisha6661&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tisha6661&icon=5&color=6)](https://visitcount.itsvg.in)
-
 
 &nbsp;***More About Me...***
-
 
 ✔ Learing **Machine Learning**.<br>
 ✔ Learing **Computer Vision**.<br>
