@@ -28,8 +28,8 @@
 ## 🌐 Socials:
 [![Gmail Badge](https://img.shields.io/badge/-tishag6661@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tishag6661@gmail.com)](mailto:tishag6661@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tisha-garg-4b207322a/) 
-[![Hashnode](https://www.svgrepo.com/svg/353856/hashnode)](https://hashnode.com/@tisha6661)
-[![Kaggle](https://www.svgrepo.com/svg/349422/kaggle)](https://www.kaggle.com/tisha9991)
+![Hashnode](https://hashnode.com/@tisha6661)
+![Kaggle](https://www.kaggle.com/tisha9991)
 
 
 # 💻 Tech Stack:
